@@ -9,6 +9,7 @@
 
 Think ML - https://goodboyanush.github.io/
 OpenML- https://github.com/Kaushikpp25/OpenML_Kaushik_181222
+ML 1- https://medium.com/@kaushikbehera2594/introduction-to-ml-eacda75becf8
 
 ## Course Overview
 
